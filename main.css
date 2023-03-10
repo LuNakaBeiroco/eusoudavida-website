@@ -1,0 +1,28 @@
+body{
+    margin: 0
+
+}
+
+.navbar{
+    background-color: black;
+    color:olive;
+    padding: 30px;
+}
+
+li{
+    display: inline-block;
+    padding-right: 10vw;
+}
+
+
+.content{
+    padding-right: 100px;
+    color: olive;
+}
+
+.footer{
+    margin: 0;
+    padding: 30px;
+    background-color: black;
+    color: olive;
+}
